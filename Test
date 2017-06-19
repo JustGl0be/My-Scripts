@@ -1,0 +1,6 @@
+print("Hello")
+def add(number):
+	number = number + 1
+	return number
+	
+print(add(4))
